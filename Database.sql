@@ -15,7 +15,7 @@ maxsize = 500MB,
 filegrowth = 5MB
 )
 	SELECT *
-	FROM kehoach
+	FROM Kehoach
 
 	create table Employee(
 	Groupname varchar(20) null,
